@@ -1,7 +1,25 @@
-- 👋 Hi, I’m @Dunit05
-- 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning/using React.js (Next.js) and various other frontend tech stacks
-- 💞️ I’m looking to collaborate on anything
-- 📫 You can reach me on Instagram @tdm0302
-- 💻 You can also look into my business at teamtdm.com
-- 📨 Connect with me on Linkedin; here: https://www.linkedin.com/in/tommydmichailidis/
+## Hi there 👋
+
+I'm Tommy — a Finance & Technology Management student at Ontario Tech University focused on AI, FinTech, Data Science, and Emerging Technologies.
+
+🧠 **Interests**
+- Artificial Intelligence & LLMs
+- FinTech & Intelligent Systems
+- Data Science & Predictive Models
+- Venture Building & Strategy
+
+🚀 **Currently**
+- Research Associate @ AI4HW
+- Managing Partner @ TDM Partners
+- Co-President @ Ontario Tech BITSoc
+- Building projects across AI, systems, and business
+
+📚 **Learning**
+- Python & AI workflows
+- LLM applications
+- Data analytics & modeling
+
+🔗 **Connect**
+- 💼 LinkedIn: linkedin.com/in/tommydmichailidis
+- ✍️ Medium: medium.com/@tdm0302
+- 🌐 teamtdm.com
