@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 I'm Tommy, a Finance & Technology Management student at Ontario Tech University focused on AI, FinTech, Data Science, and Emerging Technologies.
 
