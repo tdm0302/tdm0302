@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-I'm Tommy, a Finance & Technology Management student at Ontario Tech University focused on exploring modern financial and economic systems at the intersection of FinTech, Artificial Intelligence, Big Data, and Emerging Technologies.
+I'm Tommy, a Finance & Technology Management student at Ontario Tech University focused on exploring modern Financial and Economic Systems at the intersection of FinTech, Artificial Intelligence, Big Data, and Emerging Technologies.
 
 🧠 **Interests**
 - Artificial Intelligence & LLMs
