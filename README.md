@@ -20,6 +20,6 @@ I'm Tommy — a Finance & Technology Management student at Ontario Tech Universi
 - Data analytics & modeling
 
 🔗 **Connect**
-- 💼 LinkedIn: linkedin.com/in/tommydmichailidis
-- ✍️ Medium: medium.com/@tdm0302
-- 🌐 teamtdm.com
+- 💼 [linkedin.com/in/tommydmichailidis](https://www.linkedin.com/in/tommydmichailidis/)
+- ✍️ [medium.com/@tdm0302](https://medium.com/@tdm0302)
+- 🌐 [teamtdm.com](https://teamtdm.com)
